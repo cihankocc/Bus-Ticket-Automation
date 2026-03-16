@@ -1,0 +1,20 @@
+# IDE özel dosyaları ve dizinleri
+.classpath
+.project
+.settings/
+*.log
+
+# Derlenmiş sınıf dosyaları
+bin/
+*.class
+
+# Geçici dosyalar
+sources.txt
+
+# DB Bağlantı Dosyası (Güvenlik için yüklenmemesi önerilir)
+# Ancak örnek kalması için sadece boş/şablon bir versiyonu eklenebilir.
+config.properties
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
