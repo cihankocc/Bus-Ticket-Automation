@@ -49,10 +49,11 @@ This project was developed as part of a **learning project to practice desktop a
 
 ```
 src/
- ├── main
- │    └── Main.java
+
  ├── gui
  ├── controllers
+ ├── main
+ │    └── Main.java
  ├── models
  └── utils
 ```
